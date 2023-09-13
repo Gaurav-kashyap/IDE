@@ -30,7 +30,7 @@ Installation
 Follow these steps to set up and run the React TypeScript IDE App:
 
 1. Clone the repository:
-git clone https://github.com/your-username/react-typescript-ide-app.git
+git clone (https://github.com/Gaurav-kashyap/IDE/tree/master)
 2. Change to the project directory:
 cd react-typescript-ide-app
 3. Install the server dependencies:
